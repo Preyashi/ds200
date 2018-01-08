@@ -27,7 +27,6 @@ The dataset used is "dt1.csv"
 
 It has been observed that Andra Pradesha nd Uttar Pradesh has the highest expenditure in Agriculture and Allied Activities, then followed by Gujarat, Karnataka and Maharashtra.
 
-The same has been uploaded to the GitHub repository.[4]
 
 -----------
 References
@@ -35,5 +34,4 @@ References
 [1] https://github.com/simmhan/probable-bassoon/tree/master/plot-scripts
 [2] https://data.gov.in/node/103248/
 [3] https://data.gov.in/catalog/all-india-consumer-price-index-numbers
-[4] https://github.com/Preyashi/ds200
 
